@@ -1,0 +1,6 @@
+# Online-plsql-training-USA-UK
+Oracle plsql programming language developed by Oracle Corporation is well known as a strong procedural programming language because PL/SQL allows sending an entire block of statements to the database at one time. This reduces network traffic and provides high performance for the applications.
+Oracle plsql programming language developed by Oracle Corporation is well known as a strong procedural programming language because PL/SQL allows sending an entire block of statements to the database at one time. This reduces network traffic and provides high performance for the applications.
+      Plsql provides high productivity to programmers as it is a high level structured query language. It saves time on design and debugging by strong features, such as exception handling, encapsulation, data hiding, and object-oriented data types.
+Plsql being adopted under top level application development languages. If you are interested to be a professional in Oracle language give a call on +1 650 585 2312 Oracle plsql Online Training at S & M consultant for fresher’s and experienced according to their requirement. Subscribe for a demo today at http://smconsultant.com/.
+http://smconsultant.com/oracle-plsql-training-course-content-usa-uk-india-canada-singapore/
